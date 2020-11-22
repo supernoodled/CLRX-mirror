@@ -37,3 +37,4 @@ tests/make.deps
 tests/optimized
 tests/relwithdebinfo
 tests/svn-commit.tmp
+/.vs
